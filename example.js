@@ -1,3 +1,5 @@
+
+
 var p5Canvas;
 var myName;
 
@@ -21,7 +23,7 @@ function setup() {
 
 // Write all your code inside the draw() function below!
 function draw() {
-  background(0, 255, 0);
+  background(66, 244, 134);
 
   // head
   fill(255, 204, 0);
